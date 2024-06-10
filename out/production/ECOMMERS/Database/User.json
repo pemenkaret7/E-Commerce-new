@@ -1,0 +1,37 @@
+[
+  {
+    "ID": 1,
+    "saldo": 50000,
+    "nama": "pandu",
+    "pass": "123",
+    "keranjang": []
+  },
+  {
+    "ID": 2,
+    "saldo": 54500,
+    "nama": "panji",
+    "pass": "123",
+    "keranjang": []
+  },
+  {
+    "ID": 3,
+    "saldo": 5000,
+    "nama": "pandu",
+    "pass": "123",
+    "keranjang": []
+  },
+  {
+    "ID": 4,
+    "saldo": 5000,
+    "nama": "dapin",
+    "pass": "123",
+    "keranjang": []
+  },
+  {
+    "ID": 5,
+    "saldo": 40000,
+    "nama": "pop",
+    "pass": "23",
+    "keranjang": []
+  }
+]
